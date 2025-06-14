@@ -5,19 +5,19 @@ DEVICE_CODENAME="merlin"
 DEVICE_MODEL="Redmi Note 9"
 #
 BUILD_USER="DimzMachine"
-BUILD_HOST="Phoneix-Next Kernel"
+BUILD_HOST="Phoneix-NextBeta"
 TIMEZONE="Asia/Jakarta"
 #
-KERNEL_NAME="Phoneix-Next Kernel"
+KERNEL_NAME="Phoneix-NextBeta"
 KERNEL_ARCH="arm64"
 KERNEL_REPO="https://github.com/DimzHereee/Kernel-merlinx"
-KERNEL_BRANCH="next"
+KERNEL_BRANCH="Beta"
 KERNEL_DEFCONFIG="merlin_defconfig"
 #
 ANYKERNEL_REPO="https://github.com/DimasAkbr29/AnyKernel"
 ANYKERNEL_BRANCH="main"
 #
-CLANG_URL="$(./clang.sh zy)"
+CLANG_URL="$(./clang.sh aosp)"
 CLANG_BRANCH=""
 #
 ZIP_NAME="$KERNEL_NAME-KVER-CODENAME-VARIANT-BUILD_DATE.zip"
