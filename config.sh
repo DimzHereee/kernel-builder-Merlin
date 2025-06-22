@@ -5,13 +5,13 @@ DEVICE_CODENAME="merlin"
 DEVICE_MODEL="Redmi Note 9"
 #
 BUILD_USER="DimzMachine"
-BUILD_HOST="Phoneix-NextBeta"
+BUILD_HOST="Phoneix-Next"
 TIMEZONE="Asia/Jakarta"
 #
-KERNEL_NAME="Phoneix-NextBeta"
+KERNEL_NAME="Phoneix-Next"
 KERNEL_ARCH="arm64"
 KERNEL_REPO="https://github.com/DimzHereee/Kernel-merlinx"
-KERNEL_BRANCH="Beta"
+KERNEL_BRANCH="next"
 KERNEL_DEFCONFIG="merlin_defconfig"
 #
 ANYKERNEL_REPO="https://github.com/DimasAkbr29/AnyKernel"
